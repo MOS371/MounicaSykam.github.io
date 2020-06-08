@@ -499,7 +499,7 @@ h6 {
 -----------------------------------------*/
 
 .home {
-    background: url('/images/portfolio/banner.jpg') center center no-repeat fixed;
+    background: url('../images/portfolio/banner.jpg') center center no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
