@@ -499,7 +499,7 @@ h6 {
 -----------------------------------------*/
 
 .home {
-    background: url('images/portfolio/rsz_1rsz_img_20200607_163506_1.jpg') center center no-repeat fixed;
+    background: url('/images/portfolio/banner.jpg') center center no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
